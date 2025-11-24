@@ -1,5 +1,5 @@
 # information
-This my NFT pictures
+This block chain
 
 # license
 MIT LICENSE
